@@ -15,8 +15,11 @@ The next step was **Data Visualisation**, which included plotting histograms of 
 
 After this, the numerical variables in string format were converted to *integer* and *float*.
 Then, columns with mostly corrupted entries were removed.
+
 **Outlier Detection** included removing values that were outside three standard deviations of the mean.
+
 **Data Imbalance** was handled by oversampling the input values of *Good* and *Poor* labels to match that of *Standard* labels.
+
 The next step was **One Hot Encoding** and **Scaling**, which involved converting the categorical attributes to numerical attributes, and standardizing the numerical attributes to make the training process stable.
 
 ## Model Building and Training
