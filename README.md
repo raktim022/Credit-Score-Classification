@@ -26,11 +26,11 @@ The next step was **One Hot Encoding** and **Scaling**, which involved convertin
  
  Their results are shown as follows:
  ### Random Forest
- Accuracy : 0.87
- Precision : 0.88
- Recall : 0.87
+- Accuracy : 0.87
+- Precision : 0.88
+- Recall : 0.87
  
  ### Decision Tree
- Accuracy : 0.87
- Precision : 0.87
- Recall : 0.87
+- Accuracy : 0.87
+- Precision : 0.87
+- Recall : 0.87
